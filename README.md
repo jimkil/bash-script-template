@@ -1,7 +1,15 @@
 bash-script-template
 ====================
 
+[![license](https://img.shields.io/github/license/ralish/bash-script-template)](https://choosealicense.com/licenses/mit/)
+
 A *Bash* scripting template incorporating best practices & several useful functions.
+
+- [Motivation](#motivation)
+- [Files](#files)
+- [Usage](#usage)
+- [Controversies](#controversies)
+- [License](#license)
 
 Motivation
 ----------
